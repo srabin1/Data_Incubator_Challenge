@@ -1,0 +1,4 @@
+﻿  ProjectSolution.cpp
+C:\Users\sanaz\source\repos\ProjectSolution\ProjectSolution\ProjectSolution.cpp(112,35): warning C4244: '=': conversion from 'unsigned __int64' to 'double', possible loss of data
+C:\Users\sanaz\source\repos\ProjectSolution\ProjectSolution\ProjectSolution.cpp(113,47): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  ProjectSolution.vcxproj -> C:\Users\sanaz\source\repos\ProjectSolution\x64\Debug\ProjectSolution.exe
